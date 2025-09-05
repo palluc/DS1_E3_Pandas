@@ -18,7 +18,6 @@ Required tools to run the program are :</br>
 - Launch the Jupyter Notebook: <br/>
 <p style="border: 2px solid #000000; padding: 1px;">
 <table><tr><td>
-<img src="https://github.com/user-attachments/assets/a58cc02a-3947-4d2b-ad60-7ea704e391ae" width="80%" height="50%" alt="Launch the Jupyter Notebook" />
 </td></tr></table>
 </p>
 </br>
